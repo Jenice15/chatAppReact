@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "firebase": "^10.14.1",
+    "react-firebase-hooks": "^5.1.1"
+  },
+
+  "peerDependencies": {
+   "react": ">=16.8.0",
+   "react-dom": ">=16.8.0"
+}
+}
